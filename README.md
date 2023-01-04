@@ -15,5 +15,6 @@
 
 # Technologies Used
 | Area        | Technology |
+| ----------- | ---------- |
 | Frontend    | HTML, CSS, JavaScript, DOM, JSON format and the Fetch API |
 | Backend     | Python, REST APIs, Flask Framework |
