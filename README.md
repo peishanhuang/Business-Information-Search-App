@@ -4,7 +4,7 @@
 2. Created backend applications to make API calls using Python REST APIs and Flask framework, and using JSON parsers in JavaScript to extract the information
 3. Displayed the results in a card and tabular format and deployed this application on GCP
 
-# Webpage
+# Search Form
 ![alt text](https://github.com/peishanhuang/Business-Information-Search-App/blob/main/webpage.png)
 
 # Displaying table of businesses
